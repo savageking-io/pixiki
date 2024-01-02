@@ -1,0 +1,10 @@
+[requires]
+spdlog/1.12.0
+jsoncpp/1.9.5
+gtest/1.14.0
+yaml-cpp/0.8.0
+poco/1.12.5p2
+
+[generators]
+make
+ycm
